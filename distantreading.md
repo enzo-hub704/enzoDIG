@@ -10,7 +10,7 @@ title: Distant Reading Project
 
 Below are the responses I got from Voyant and Copilot. 
 
-They analyzed this article: (https://jamesclear.com/saying-no) 
+They analyzed this article: [saying no](https://jamesclear.com/saying-no) 
 
 
 ![Voyant](Voyant.png)
