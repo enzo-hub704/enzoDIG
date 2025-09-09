@@ -8,8 +8,17 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
+Below are the responses I got from Voyant and Copilot. 
 
-This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
+They analyzed this article: (https://jamesclear.com/saying-no) 
 
-Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
+
+![Voyant](Voyant.png)
+
+![Copilot](Copilot.png)
+
+![Copilot](Copilotp2.png)
+
+Summary: 
+
+As you can see, the most distinct observation is how different both programs are designed, however, they both clearly gave very different answers. For one, the word counts, and the most common words analyzed were different from both Voyant and Copilot. I will assume Voyant was wrong on this occasion because Copilot found more words and listed them for me. Though when I asked Copilo to give me a vocabulary density and readability index, it gave me very similar answers compared to Voyant. I do find it interesting how different their word count was, and I’m not entirely sure why their answers were so different.  
